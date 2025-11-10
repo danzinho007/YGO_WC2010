@@ -1,0 +1,56 @@
+Informações :
+
+CRC32:
+
+Japan B = 1C210C66
+Japan = E2FEBCB7
+USA = 96DCB322
+Europe = F65389CF ( game of topic )
+
+Mods :
+PT-BR = 87BA2EBD
+Revival = 184A62EE
+Ultra Edition = 99C6229F
+
+Remover Banlist
+1202ADC0 0000E007
+
+Banlist Setembro 2010
+https://yugipedia.com/wiki/September_2010_Lists_(World_Championship_2011)
+
+Banlist Março 2011
+https://yugipedia.com/wiki/March_2011_Lists_(TCG)
+
+Banlist Setembro 2011
+https://yugioh.fandom.com/wiki/September_2011_Lists_(TCG)
+
+Banlist Março 2012
+https://yugipedia.com/wiki/March_2012_Lists_(World_Championship_2011)
+
+Ltd as Forb List
+https://yugipedia.com/wiki/Treat_Ltd_as_Forb_Lists_(World_Championship_2011)
+
+WorldChampionship
+https://yugipedia.com/wiki/World_Championship_Lists_(World_Championship_2011)
+
+WorldChampionshipPrime
+https://yugipedia.com/wiki/World_Championship_Primaries_Lists_(World_Championship_2011)
+
+Randomizer:
+https://github.com/kathanaddaeus/YgoNdsRandomizer
+
+O que randomiza ?
+Pacote de cartas e deck estrutural
+
+Pacotes:
+Cada carta pode aparecer em qualquer pacote com raridades originais.
+Cada carta pode aparecer em qualquer pacote com novas raridades. (As cartas comuns permanecem comuns em todos os conjuntos secundários)
+Sem alterações.
+
+Estrutura de decks:
+Todas as cartas contidas nos baralhos estruturais serão redistribuídas aleatoriamente entre todos os baralhos.
+Sem alterações.
+
+Opções adicionais:
+Escolha se as cartas encontradas apenas no Deck Estrutural aparecerão nos pacotes regulares.
+Escolha se as cartas serão distribuídas uniformemente em todos os conjuntos para um tamanho de pacote consistente.

@@ -1,0 +1,79 @@
+
+DS - YGOWC2010
+
++3.554 cartas
+Deuses Egípicios
+Speed Spells
+Speed World 2
+
+Meu deck :
+
+
+
+Monstro
+Magia
+Armadilha
+
+-------------------------------
+-Arauto da Luz Verde
+Anjo da Guarda 600
+
+Deck de Luz
+1-Aumenta ataque = 1
+2-Buscador = 2
+3-Indestrutível em batalha = 3
+4-Invocação especial pro campo = 5
+5-Negar magia  = 2
+
+5Efe-AlmaDePureza 2000/1800
+4Efe-Zombyra 2100/500 x2
+3Efe-RaiMei 1400/1200 x2
+4Efe-AnjoResplandecente 1400/800 x3
+4Efe-InvocadorNova 1400/800 x3
+4Efe-Honesto 1100/1900
+3Efe-ATerraFusaoSelada 1000/1600 x2
+3Efe0]-Maryokutai 900/900
+3Efe-Marshmallon 300/500
+2Efe-ArautoDaLuzLaranja 300/500
+2Efe-ArautoDaLuzVerde 300/500
+1Efe-ForcaArcanaOLouco 0/0 x2
+MagCtn-MensagemDoespirito A
+MagCtn-MensagemDoEspirito I
+MagCtn-MensagemDoEspirito L
+MagCtn-MensagemDoEspirito N
+ArmCtn-TábuaDoDestino
+
+------------------------
+-Princesa Pikeru
+Curar Princesa 600
+
+1-Destroi monstro = 1
+2-Diminui ataque = 2
+3-Destroi todos atacantes = 1
+4-Muda pra defesa = 1
+5-Destroi todos = 1
+6-Restricao nivel 4 ou mais = 2
+7-Nega ataque = 1
+8-Reduz ataque = 1
+9-Protege campo por 3 turnos = 1
+
+6Efe-FeiticeiroDoCaos 2300/2000 x1 (?)
+4Efe-PrincesaPikeru 2000/0 x1 (?)
+2Efe-MagaDeEbano 1200/0 x2 (?)
+3Efe-BeijaFlor 800/600 x1 (?)
+2Efe-Ryko 200/100 x1 (?)
+Mag-Encolher x1 (?)
+Mag-EspadasDaLuz x1 (?)
+Mag-LivroDaLua x1 (?)
+Mag-TurbilhaoDeRelampagos x1 (?)
+MagCtn-FardoDoPoderoso x2 (?)
+MagCtn-LimiteDeNivel x1 (?)
+MagCtn-MuroDeLuz x1 (?)
+MagEqp-Julgamento x2 (?)
+Arm-ForçaDoEspelho x1 (?)
+Arm-UniaoGravitica x1 (?)
+Arm-Waboku x1 (?)
+
+-----------------------------
+-Senhora Fortuna da Luz
+Fortuna Confiada 600

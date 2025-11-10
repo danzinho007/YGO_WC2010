@@ -1,0 +1,348 @@
+-------------------
+Yu-Gi-Oh 2011 Revival Patch
+
+Meu Deck
+1-Colocar mais monstros de efeito
+2-Colocar mais magias
+3-Colocar mais armadilhas
+
+------------------
+Bronson
+
+4-Efe-CrusaderOfEndymion 1900/1200
+4-Efe-ElementalHeroNeosAlius 1900/1300
+4-Efe-BreakerTheMagicalWarrior 1600/1000
+
+MagRpd-GeminiSpark
+
+------------------
+CherryInmato (TomatoAlliance)
+
+InvocaçãoEspecial = 2 (LonefireBlossom)
+NegarInvocação de Monstro/Mag/Arm = 1 ()
+
+4-Efe-BotanicalLion 1600/200
+3-Efe-LonefireBlossom 500/1400 x2
+3-Efe-Dandylion 300/300
+
+Mag-FoolishBurial
+Mag-PotOfGreed
+MagEqp-MarkOfTheRose
+
+Arm-MirrorForce
+ArmResp-SolemnJudgment
+ArmResp-SolemnWarning
+
+-----------------------
+Clint
+
+4-Efe-ShiningAngel 1400/800
+MagCampo-LuminousSpark 
+
+-----------------------
+Crow Hogan
+
+4-Efe-BlackwingShura 1800/1200
+3-Efe-BlackwingKalut 1400/1000
+
+----------------------------
+Gem-Knight Prism Aura
+Sparkling Knights 780
+
+1-Buscador = 3
+2-Nega ativação = 1
+3-Reviver monstro = 1
+
+6Fus-ElementalHeroGaia 2200/2600
+4Efe-ElementalHeroNeosAlius 1900/1300
+4Efe-ElementalHeroStratos 1800/300 x2 (Busca)
+4Efe-ElementalHeroOcean 1500/1200
+4Efe-GemTurtle 0/2000 (Busca)
+Mag-GemKnightFusion
+Mag-MiracleFusion
+Mag-MonsterReborn
+Mag-PotOfDuality x2
+Mag-ReinforcementOfTheArmy
+MagCtn-FutureFusion
+ArmResp-SolemnsJudgment
+
+Estratégia:
+1-
+
+---------------------
+Genex Ally Axel
+Accelerating Genex 780
+
+1-Aumenta Ataque = 1
+2-Buscador = 2
+3-Destroi atacante/s = 1
+4-Nega ativação = 2
+5-Rouba monstro = 1
+
+7Syn-BlackRoseDragon 2400/1800
+4Efe-GenexNeutron 1800/1200
+4Efe-GenexSearcher 1600/400 (Busca)
+4Efe-GenexTurbine 1400/1300 x2
+3Efe-GenexAllyBirdman 1400/400
+Mag-MindControl
+Mag-PotOfAvarice
+Mag-PotOfDuality x2
+Mag-PotOfGreed
+Arm-MirrorForce
+Arm-SolemnJudgment
+ArmResp-SolemnWarning
+
+Táticas:
+1-Destrui armadilhas(3) antes de atacar 
+2-
+
+--------------------------
+Gishiki Erial
+Ritua Poor 780
+
+1-Faz Ritual muito fácil
+
+6Rit-EvigishkiTetrogre 2600/2100
+6Rit-EvigishkiMindAugust 2500/200
+6-AmphibianBeast 2400/2000
+4Efe-ManjuOfTheTen 1400/1000
+3Efe-DjinnReleaser 1200/2000 x3
+Mag-AdvancedRitualArt
+Mag-FoolishBurial
+Arm-TorrentialTribute
+ArmResp-SolemnJudgment
+ArmResp-SolemnWarning
+
+
+Estratégia:
+1-Segurar jogo
+4Efe-WallOfIllusion
+2-
+----------------------
+Gordon
+
+Mag-MorayOfGreed x2
+Arm-BottomlessTrapHole
+
+-------------------
+Hyponocorn (HipHypnocorn)
+
+4-Efe-KingTigerWanghu 1700/1000
+
+MagRpd-MysticalSpaceTyphoon
+
+---------------------------
+Iranami (IranamisTemptation)
+MagCampo-MausoleumOfTheEmperor
+
+8-Efe-HinoKaguTsuchi 2800/2900 x2
+
+6-Efe-DarkDustSpirit 2200/1800 x2
+
+4-Efe-Yaksha 1900/1500
+4-Efe-Izanami 1100/1800 x2
+3-Efe-InabaWhiteRabbit 700/500 x3
+1-Efe-BattleFader 0/0
+
+Mag-CreatureSwap
+Mag-SwordsOfRevealingLight
+MagCtn-TheDarkDoor
+MagRpd-BookOfMoon
+MagRpd-MysticalSpaceTyphoon
+
+Arm-RobbinGoblin
+Arm-ScrapIronScarecrow
+
+----------------------
+Hayakama 
+
+6-Efe-ThestalosTheFirestormMonarch 2400/1000
+4-Efe-MotherGrizzly 1400/1000
+
+-------------------
+Jack
+
+3-Efe-Trigon 500/1700
+Arm-BottomlessTrapHole
+
+------------------
+Kalin
+
+6-Efe-SkullArchfiendOfLightning 2500/1200
+Mag-AllureOfDarkness
+
+------------
+MachinaFortress
+
+4-Efe-GreenGadget 1400/600
+MagRpd-MysticalSpaceTyphoon
+
+----------------------
+Masaki
+
+4-GenWarpedWarwolf 2000/100
+4-LusterDragon 1900/1600
+
+--------------------------
+Minegishi
+
+6-Efe- Monarch 2400
+6-Efe-ChaosSorcerer 2300/2000
+
+5-Efe-CyberDragon 2100/1600
+4-Efe-KycooTheGhostDestroyer 1800/700 x2
+3-Efe-Sangan 1000/600
+
+MagRpd-MysticalSpaceTyphoon x2
+
+Arm-DimensionalPrison
+
+---------------------------------
+Moja (DingyDaredevil):
+
+7-SinEff-BlackRoseDragon 2400/1800
+
+4-Efe-BeastStriker 1850/400
+3-Efe-XSaberAirbellum 1600/200 x2
+4-Efe-GiantRat 1400/1450 x2
+2-Efe-RykoLightsworm 200/100 x2
+
+Mag-BrainControl
+Mag-HeavyStorm
+MagRpd-BookOfMoon x2
+MapRpd-MysticalSpaceTyphoon
+
+Arm-MirrorForce
+Arm-TorrentialTribute
+ArmResp-SolemnWarning x2
+
+-----------------------
+NaturiaCherries (OrganicCherries)
+
+4-Efe-BotanicalLion 1600/2000 x2
+3-Efe-LonefireBlossom 500/1400
+
+----------------------------------------
+Nico:
+
+5-SynEff-MagicalAndroid 2400/1700
+3-Efe-BotanicalGirl 1300/1100
+2-Efe-CherryInmato 700/400
+
+MagCtn-MiracleFertilizer
+
+--------------------------
+Reimi:
+
+2-Efe-MorphingJar 700
+Arm-MirrorForce
+
+----------------------
+Tender of the Laval Volcano
+Laval-Patter Burn 780
+
+Buscador = 2
+EspecialSummon = 1
+NegaArmadilha = 1
+
+7Efe-GorzTheEmissary 2700/2500
+4Efe-FlamvellFiredog 1900/200
+4Efe-LavalWarrior 1800/500
+4Efe-ElementalHeroStratos 1800/300
+4Efe-FlamvellMagician 1400/200
+3Efe-LavalMiller 300/400 x2
+
+Mag-InstantFusion
+Mag-PainfulChoice
+Mag-PotOfAvarice
+Mag-PotOfGreed
+Mag-MiracleFusion x2
+Mag-ReinforcementOfTheArmy
+MagCtn-FutureFusion
+
+ArmCtn-RoyalDecree x2
+
+Táticas:
+1-Destruir as Armadilhas Contínua = x2
+x3 Arm-DustTornado
+2-Destruir as Invocações Poderosas = x3
+2x Arm-Bottomless 1x Arm-MirrorForce
+3-Invocar monstros de 1800 no mínimo = x3
+
+----------------------------
+Thunder Unicorn
+Unicorn Grit 880
+
+0-Deck Beast
+1-Destruir atacante/s = 1
+2-Nega ativação = 2
+
+8Syn-StardustDragon 2500/2000
+5Fus-FlowerWolf 1800/1400
+4Efe-ChainDog 1600/1100
+3Efe-XSaberAirbellum 1600/200 x3
+3Efe-MineMole 1000/1200 x2
+2Efe-Elephun 500/300
+4Efe-RescueCat 300/100
+Mag-InstantFusion
+Mag-PotOfAvarice x2
+Arm-CallOfTheHaunted
+Arm-MirrorForce
+ArmResp-SolemnJudgment
+
+Estratégia:
+1-
+
+-----------------
+Wattmole:
+
+DiminuirAtaque com MagiasContinuas
+
+4-Efe-ThunderKing_RaiOH 1900/800
+4-Efe-ShiningAngel 1400/800
+4-Efe-Wattgiraffe 1200/100 x2
+1-Efe-Honest 1100/1900 x3
+3-Efe-Wattwoodpecker 1000/100 x2
+2-Efe-Wattdragonfly 900/100 x3
+3-Efe-Wattsquirrel x2
+
+Mag-PotOfDuality x2
+Mag-PotOfGreed
+MagCtn-BurdenOfTheMighty x3
+MagEqp-Wattcube
+
+Arm-GozenMatch
+ArmResp-SolemnWarning
+
+Tática:
+1-Destrui as magias contínuas = 3x
+Arm-DustTornado
+2-
+-------------------------------
+West:
+
+3-Efe-QuickSpanKnight 1000/800
+1-Efe-DarkseaRescue 0/0 
+1-Efe-TurboBooster 0/0 x2
+Arm-RaigekiBreak
+
+--------------
+Yam (ChampionsDeck - Dragunity):
+Campo: DragonRavine
+
+4-Efe-DragunityDux 1500/1000 x3 (OK)
+3-Efe-DragunityLegionnaire 1200/800 x3
+2-Efe-DragunityAkiys 1000/800 x3
+2-Efe-DragunityPhalanx 500/1100 x3 (OK)
+
+Mag-MonsterReborn
+
+--------------------
+Yusei
+
+2-Efe-QuillboltHedgehog 800/800
+3-Efe-LevelWarrior 300/600
+
+----------------
+MeuDeck:
+
