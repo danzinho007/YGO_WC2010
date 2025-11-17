@@ -14,6 +14,17 @@ Monstro
 Magia
 Armadilha
 
+DeckEstrututal : Rugido do Dragão
+
+InvocaEspecial = 1
+
+7-DragãoNegroDeOlhosVermelhos 2400/2000
+4Efe-DragãoDoElemental 1500/1200
+3Efe-DragãoMascarado 1400/1100
+1Efe-FilhoteDoDragãoNegro 800/500
+Arm-MaldiçãoDeAnúbis
+Arm-TransportadorInterdimensional
+
 -------------------------------
 -Arauto da Luz Verde
 Anjo da Guarda 600
@@ -42,6 +53,18 @@ MagCtn-MensagemDoEspirito I
 MagCtn-MensagemDoEspirito L
 MagCtn-MensagemDoEspirito N
 ArmCtn-TábuaDoDestino
+
+------------------
+Okita
+Cura Psíquica 730
+
+
+
+--------------------
+Peçonaja, DivindadeDasCobrasPeçonhentas
+Veneno Venenoso 600
+
+
 
 ------------------------
 -Princesa Pikeru
@@ -77,3 +100,25 @@ Arm-Waboku x1 (?)
 -----------------------------
 -Senhora Fortuna da Luz
 Fortuna Confiada 600
+
+4Efe-MagaSolitária 1600/1300 x1 (?)
+4Efe-SenhoraFortunaDaÁgua ?/? x1 (?)
+4Efe-SenhoraFortunaDaLuz ?/? x2 (?)
+2Efe-SenhoraFortunaDoFogo ?/? x1 (?)
+3Efe-SenhoraFortunaDoVento ?/? x1 (?)
+MagRpd-Passagem de Tempo x1 (?)
+Arm-DeslizeDaFortuna x1 (?)
+Arm-DoraDoDestino x1 (?)
+Arm-OsCaminhosDoDestino x1 (?)
+ArmCtn-AdvinhaçãoSinistra x1 (?)
+ArmRsp-TorcerODestino
+
+------------------------
+Tashiro
+Equipar e Tributar 830
+
+4-FerroadaLetal 1200/1000 x1 (?)
+Mag-MarteloMágico x1 (?)
+MagCtn-SombrasEmMudança x1 (?)
+Arm-Eatgaboon x2 (?)
+Arm-PerdaSimultânea x1 (?)
